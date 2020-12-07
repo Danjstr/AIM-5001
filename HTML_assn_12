@@ -3,32 +3,32 @@
 <tr>
 <td>title</td>
 <td>authors</td>
+<td>published</td>
 <td>price</td>
-<td>discount_price</td>
-<td>publish_date</td>
+<td>rating</td>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Python Crash Course, 2nd Edition</td>
-<td>Eric Matthes</td>
-<td>39.95</td>
-<td>23.99</td>
-<td>May 21, 2019</td>
+<td>The Name of the Wind</td>
+<td>Patrick Rothfuss</td>
+<td>2007</td>
+<td>25.99</td>
+<td>95</td>
 </tr>
 <tr>
-<td>Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow</td>
-<td>Aurélien Géron</td>
-<td>63.99</td>
+<td>Mistborn</td>
+<td>Brandon Sanderson</td>
+<td>2006</td>
 <td>37.49</td>
-<td>Sep 5, 2019</td>
+<td>96</td>
 </tr>
 <tr>
-<td>Software Engineering at Google</td>
-<td>Titus Winters, Tom Manshreck, Hyrum Wright</td>
-<td>50.99</td>
-<td>34.25</td>
-<td>Feb 28, 2020</td>
+<td>Rogues</td>
+<td>George R.R. Martin, Gardner Dozois</td>
+<td>2014</td>
+<td>59.99</td>
+<td>75</td>
 </tr>
 </tbody>
 </table>
