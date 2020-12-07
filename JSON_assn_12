@@ -1,23 +1,23 @@
 [
   {
-    "title": "Python Crash Course, 2nd Edition",
-    "authors": ["Eric Matthes"],
-    "price": 39.95,
-    "discount_price": 23.99,
-    "publish_date": "May 21, 2019"
+    "title": "The Name of the Wind",
+    "authors": ["Patrick Rothfuss"],
+    "published": 2007,
+    "price": 25.99,
+    "rating": 95
   },
   {
-    "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
-    "authors": ["Aurélien Géron"],
-    "price": 63.99,
-    "discount_price": 37.49,
-    "publish_date": "Sep 5, 2019"
+    "title": "Mistborn",
+    "authors": ["Brandon Sanderson"],
+    "published": 2006,
+    "price": 37.49,
+    "rating": 96
   },
   {
-    "title": "Software Engineering at Google",
-    "authors": ["Titus Winters", "Tom Manshreck", "Hyrum Wright"],
-    "price": 50.99,
-    "discount_price": 34.25,
-    "publish_date": "Feb 28, 2020"
+    "title": "Rogues",
+    "authors": ["George R.R. Martin", "Gardner Dozois"],
+    "published": 2014,
+    "price": 59.99,
+    "rating": 75
   }
 ]
